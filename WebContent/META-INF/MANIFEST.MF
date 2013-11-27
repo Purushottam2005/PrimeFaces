@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Class-Path: 
+
+
+/**Softwares used**/
+Eclipse Platform
+
+Version: 4.2.1.v20130118-173121-9MF7GHYdG0B5kx4E_SkfZV-1mNjVATf67ZAb7
+Build id: M20130204-1200
+
+/**Freameworks used**/
+1. JSF 2.1
+2. PrimeFaces 4.0
+
+/** Server used **/
+JBOSS 5.1.0.GA
+
+/** Java **/
+Java 1.6
